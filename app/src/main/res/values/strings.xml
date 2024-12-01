@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Materials Management</string>
+    <string name="register_title">SignUp</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="age_hint">Age</string>
+    <string name="password_hint">Password</string>
+    <string name="register_button">Register</string>
+    <string name="login_link">Already have an account? Login</string>
+    <string name="login_title">SignIn</string>
+    <string name="login_button">Login</string>
+    <string name="register_link">If you dont have an account? Register</string>
+    <string name="material_title">Materials</string>
+    <string name="confirm_password_hint">confirmPassword</string>
+</resources>

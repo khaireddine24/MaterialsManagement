@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953625730612",
+    "project_id": "materials-management-a7205",
+    "storage_bucket": "materials-management-a7205.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953625730612:android:48d9a1fa694e061ee5b461",
+        "android_client_info": {
+          "package_name": "com.example.materialsmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArap2rXY8CYbvnD2m_pNDUIWPguRBoXk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
