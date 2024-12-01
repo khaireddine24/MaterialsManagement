@@ -68,11 +68,11 @@ An Android application for managing materials and classes within an educational 
 
 +Login: Users can log in using their Firebase credentials.<br/>
 +Home Screen:<br/>
-View profile information (username, email, and profile picture).<br/>
-Navigate to "Manage Materials" or "Manage Classes" sections.<br/>
+-View profile information (username, email).<br/>
+-Navigate to "Manage Materials" or "Manage Classes" sections.<br/>
 +Logout:<br/>
-Use the "Logout" button to securely end the session and return to the login screen.<br/>
+-Use the "Logout" button to securely end the session and return to the login screen.<br/>
 +Future Enhancements:<br/>
-Add real-time updates for materials and classes.<br/>
-Integrate push notifications for new materials or updates.<br/>
-Include a role-based system for administrators and general users.<br/>
+-Add real-time updates for materials and classes.<br/>
+-Integrate push notifications for new materials or updates.<br/>
+-Include a role-based system for administrators and general users.<br/>
