@@ -63,7 +63,9 @@ An Android application for managing materials and classes within an educational 
 4. Sync the project with Gradle files.<br/>
 5. Run the app on an emulator or physical device.<br/>
 
-##How to Use
+## How to Use
+
+
 +Login: Users can log in using their Firebase credentials.<br/>
 +Home Screen:<br/>
 View profile information (username, email, and profile picture).<br/>
